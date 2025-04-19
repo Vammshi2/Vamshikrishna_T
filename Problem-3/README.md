@@ -1,6 +1,4 @@
 
-# Problem 3 - Odd Number Series (Even/Odd Aware)
-
 ## Problem Statement
 
 Given a number `a`, generate all **odd numbers** such that:

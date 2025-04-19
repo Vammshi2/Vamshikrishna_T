@@ -19,5 +19,4 @@ Given a list of integers, return how many numbers are divisible by each integer 
 
 - ✅ Python 3
 
-All implementations include inline comments and are beginner-friendly. This task is language-agnostic and can be implemented in any language.
 

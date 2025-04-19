@@ -12,6 +12,7 @@ Given a list of integers, return how many numbers are divisible by each integer 
 ```python
 [1, 2, 8, 9, 12, 46, 76, 82, 15, 20, 30]
 
+```
 ---
 
 ## Language Used

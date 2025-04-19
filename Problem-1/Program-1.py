@@ -18,9 +18,10 @@ class Calculator:
         return self.a / self.b
 
 
-# Usage
-calc = Calculator(10.5, 5.5)
-operation = "add"
+a = int(input())
+b = int(input())
+calc = Calculator(a,b)
+operation = "add" #subtract,multiplydivide
 
 if operation == "add":
     print(calc.add())

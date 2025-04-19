@@ -12,7 +12,11 @@ Given a list of integers, return how many numbers are divisible by each integer 
 ```python
 [1, 2, 8, 9, 12, 46, 76, 82, 15, 20, 30]
 
-Language Used
-✅ Python 3
+---
 
-Each solution is commented for clarity.
+## Language Used
+
+- ✅ Python 3
+
+All implementations include inline comments and are beginner-friendly. This task is language-agnostic and can be implemented in any language.
+

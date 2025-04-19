@@ -23,7 +23,7 @@ class Calculator:
 a = int(input())
 b = int(input())
 calc = Calculator(a,b)
-operation = "add" #subtract,multiplydivide
+operation = "add" #subtract,multiply,divide
 
 if operation == "add":
     print(calc.add())

@@ -1,3 +1,5 @@
+# Basic OOP Approach (Method per Operation)
+
 class Calculator:
     def __init__(self, a: float, b: float):
         self.a = a

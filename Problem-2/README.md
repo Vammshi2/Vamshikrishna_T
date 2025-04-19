@@ -1,5 +1,5 @@
 
-# Odd Number Series Generator (DSA based)
+# Odd Number Series Generator
 
 ## Problem Statement
 

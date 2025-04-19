@@ -1,4 +1,3 @@
-# 🔢 Problem 4 - Count of Multiples from 1 to 9 in a List
 
 ## 🧩 Problem Statement
 

@@ -29,4 +29,3 @@ Given a number `a`, generate all **odd numbers** such that:
 
 All implementations include inline comments and are beginner-friendly. This task is language-agnostic and can be implemented in any language.
 
-k.py
